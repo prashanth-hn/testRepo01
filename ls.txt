@@ -1,0 +1,6 @@
+total 2748
+drwxr-xr-x 1 Pranav 197609       0 Aug 30 18:06 ./
+drwxr-xr-x 1 Pranav 197609       0 Aug 30 15:22 ../
+drwxr-xr-x 1 Pranav 197609       0 Aug 30 15:25 .git/
+-rw-r--r-- 1 Pranav 197609 2783492 Jul  5  2018 Peru.png
+-rw-r--r-- 1 Pranav 197609       0 Aug 30 18:06 ls.txt
